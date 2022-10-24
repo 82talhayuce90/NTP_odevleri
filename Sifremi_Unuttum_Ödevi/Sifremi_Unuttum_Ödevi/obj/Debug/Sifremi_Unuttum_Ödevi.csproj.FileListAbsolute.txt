@@ -1,0 +1,11 @@
+C:\Users\talha yüce\OneDrive\Masaüstü\Projeler\Sifremi_Unuttum_Ödevi\Sifremi_Unuttum_Ödevi\bin\Debug\Sifremi_Unuttum_Ödevi.exe.config
+C:\Users\talha yüce\OneDrive\Masaüstü\Projeler\Sifremi_Unuttum_Ödevi\Sifremi_Unuttum_Ödevi\bin\Debug\Sifremi_Unuttum_Ödevi.exe
+C:\Users\talha yüce\OneDrive\Masaüstü\Projeler\Sifremi_Unuttum_Ödevi\Sifremi_Unuttum_Ödevi\bin\Debug\Sifremi_Unuttum_Ödevi.pdb
+C:\Users\talha yüce\OneDrive\Masaüstü\Projeler\Sifremi_Unuttum_Ödevi\Sifremi_Unuttum_Ödevi\obj\Debug\Sifremi_Unuttum_Ödevi.csproj.AssemblyReference.cache
+C:\Users\talha yüce\OneDrive\Masaüstü\Projeler\Sifremi_Unuttum_Ödevi\Sifremi_Unuttum_Ödevi\obj\Debug\Sifremi_Unuttum_Ödevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\talha yüce\OneDrive\Masaüstü\Projeler\Sifremi_Unuttum_Ödevi\Sifremi_Unuttum_Ödevi\obj\Debug\Sifremi_Unuttum_Ödevi.Form1.resources
+C:\Users\talha yüce\OneDrive\Masaüstü\Projeler\Sifremi_Unuttum_Ödevi\Sifremi_Unuttum_Ödevi\obj\Debug\Sifremi_Unuttum_Ödevi.Properties.Resources.resources
+C:\Users\talha yüce\OneDrive\Masaüstü\Projeler\Sifremi_Unuttum_Ödevi\Sifremi_Unuttum_Ödevi\obj\Debug\Sifremi_Unuttum_Ödevi.csproj.GenerateResource.cache
+C:\Users\talha yüce\OneDrive\Masaüstü\Projeler\Sifremi_Unuttum_Ödevi\Sifremi_Unuttum_Ödevi\obj\Debug\Sifremi_Unuttum_Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\talha yüce\OneDrive\Masaüstü\Projeler\Sifremi_Unuttum_Ödevi\Sifremi_Unuttum_Ödevi\obj\Debug\Sifremi_Unuttum_Ödevi.exe
+C:\Users\talha yüce\OneDrive\Masaüstü\Projeler\Sifremi_Unuttum_Ödevi\Sifremi_Unuttum_Ödevi\obj\Debug\Sifremi_Unuttum_Ödevi.pdb
